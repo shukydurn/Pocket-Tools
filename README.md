@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="PocketTools.png" width="150">
+</p>
+
 # Pocket Tools
 
 A simple Android toolbox with everyday utilities.
