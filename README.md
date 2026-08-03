@@ -4,7 +4,9 @@
 
 # Pocket Tools
 
-A simple Android toolbox with everyday utilities.
+**Everyday Android utilities in one simple toolbox.**
+
+A lightweight collection of useful tools including QR utilities, flashlight, battery information, calculators, converters, and notes.
 
 ## Why I built it
 
