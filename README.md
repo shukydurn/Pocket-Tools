@@ -31,3 +31,7 @@ Screenshots coming soon.
 ## Feedback
 
 Suggestions and bug reports are welcome.
+
+## Status
+
+Currently in development.
